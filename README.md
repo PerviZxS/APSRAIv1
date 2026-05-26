@@ -98,7 +98,7 @@ The four-stage architecture maps directly to the following regulatory instrument
 
 If you use or reference this prototype in academic work, please cite it as:
 
-> Salmanov, P. (2026) APSRAI Prototype: A Python Simulation of Human-in-the-Loop Governance for Agentic AI Threat Detection. [Software]. Zenodo. Available at: https://doi.org/10.5281/zenodo.XXXXXXX.
+> PerviZxS (2026) “PerviZxS/APSRAIv1: APSRAI Prototype v1.0.0”. Zenodo. doi:10.5281/zenodo.20393065.
 
 ---
 
