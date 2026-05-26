@@ -100,8 +100,6 @@ If you use or reference this prototype in academic work, please cite it as:
 
 > Salmanov, P. (2026) APSRAI Prototype: A Python Simulation of Human-in-the-Loop Governance for Agentic AI Threat Detection. [Software]. Zenodo. Available at: https://doi.org/10.5281/zenodo.XXXXXXX.
 
-The DOI will be updated upon first Zenodo release.
-
 ---
 
 ## Author
